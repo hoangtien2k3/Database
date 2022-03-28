@@ -1,2 +1,2 @@
 # Database
-SQL is a standard language for accessing and manipulating databases.
+SQL Server management - Intelligent tool for databases-Database tool that is tailored to suit specific needs of SQL developers
